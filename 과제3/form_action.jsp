@@ -10,5 +10,5 @@
 요청 프로토톨:<%= request.getProtocol() %><br>
 요청 방식:<%= request.getMethod() %><br>
 질의 내용:<%= request.getQueryString() %><br>
-<body>
+</body>
 </html
